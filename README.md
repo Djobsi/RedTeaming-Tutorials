@@ -63,9 +63,10 @@ cloudflared tunnel --url http://localhost:8080
 
 Стартирай Python скрипта: В друг терминал пусни твоя Flask сървър:
 
-Bash
 python3 phishing_server.py
+
 2. Свързване на GitHub с Kali
+
 За да отиват данните от GitHub към твоя лаптоп, трябва да редактираш index.html в GitHub:
 
 Отвори index.html в GitHub интерфейса и цъкни иконата за молив (Edit).
